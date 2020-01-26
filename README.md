@@ -1,8 +1,7 @@
-# flutter_login
+# Bloc mix MVVM-Flutter
 
-A new Flutter project.
+Build Bloc combine concept MVVM App for Android and IOS with Flutter。
 
-## Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
