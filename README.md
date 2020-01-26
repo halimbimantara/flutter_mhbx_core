@@ -1,4 +1,4 @@
-# Bloc mix MVVM-Flutter
+# BloC mix MVVM Flutter
 
 Build Bloc combine concept MVVM App for Android and IOS with Flutter。
 
